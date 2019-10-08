@@ -1,0 +1,16 @@
+C:\Users\baron.ren\source\repos\AutoSD\AutoSD\bin\Debug\AutoSD.exe.config
+C:\Users\baron.ren\source\repos\AutoSD\AutoSD\bin\Debug\AutoSD.exe
+C:\Users\baron.ren\source\repos\AutoSD\AutoSD\bin\Debug\AutoSD.pdb
+C:\Users\baron.ren\source\repos\AutoSD\AutoSD\obj\Debug\AutoSD.Main.resources
+C:\Users\baron.ren\source\repos\AutoSD\AutoSD\obj\Debug\AutoSD.Properties.Resources.resources
+C:\Users\baron.ren\source\repos\AutoSD\AutoSD\obj\Debug\AutoSD.csproj.GenerateResource.Cache
+C:\Users\baron.ren\source\repos\AutoSD\AutoSD\obj\Debug\AutoSD.csproj.CoreCompileInputs.cache
+C:\Users\baron.ren\source\repos\AutoSD\AutoSD\obj\Debug\AutoSD.exe
+C:\Users\baron.ren\source\repos\AutoSD\AutoSD\obj\Debug\AutoSD.pdb
+C:\Users\baron.ren\source\repos\AutoSD\AutoSD\obj\Debug\AutoSD.csprojAssemblyReference.cache
+C:\Users\baron.ren\source\repos\AutoSD\AutoSD\obj\Debug\AutoSD.AppStart.resources
+C:\Users\baron.ren\source\repos\AutoSD\AutoSD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\baron.ren\source\repos\AutoSD\AutoSD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\baron.ren\source\repos\AutoSD\AutoSD\obj\Debug\AutoSD.Node.resources
+C:\Users\baron.ren\source\repos\AutoSD\AutoSD\obj\Debug\AutoSD.csproj.CopyComplete
+C:\Users\baron.ren\source\repos\AutoSD\AutoSD\obj\Debug\AutoSD.MsgBox.resources
